@@ -794,7 +794,7 @@ banner
     min-width: 100%;
     position: relative;
     display: inline-block;
-    max-width: 100%;
+    max-width: none;
   }
 }
 
