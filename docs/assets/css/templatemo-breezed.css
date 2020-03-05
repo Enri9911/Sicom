@@ -788,6 +788,8 @@ banner
   max-width: 100%;
 }
 
+
+
 @media (max-width: 767px) {
   .img-fill img {
     min-height: 100%;
