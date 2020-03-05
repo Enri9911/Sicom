@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+.card{
+    margin-top: 50px;
+    margin-left: 8%;
+    width: 70%;
+}
+
+.container{
+    border: 1px solid black;
+    padding-bottom: 30px;
+    background-color: lightskyblue;
+}
+
+.col-md-4{
+    text-align: center;
+}
+
+
+
